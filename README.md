@@ -4,7 +4,7 @@ How to automate downloading mp3 files from google translate?
 
 3 steps (fist two steps are not necessary, depends on your language)
 
- 1: get your words and use SOT-Selenium (It's possible that not all files will download without this step)
+ 1: get your words and use SOT-Selenium (It's possible that not all files will download without this step), be sure to have your Chrome webdriver in the same folder as your python file (if you don't Chrome webdriver just google it)
  
  2: convert your words into URL friendly format using URL Encoder (http://meyerweb.com/eric/tools/dencoder/)
  
